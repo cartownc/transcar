@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>TRANSCAR - Agencia de Traslados</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+    header { background-color: #003366; color: white; padding: 20px; text-align: center; }
+    nav { background-color: #0055a5; padding: 10px; text-align: center; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; }
+    section { padding: 20px; }
+    footer { background-color: #003366; color: white; text-align: center; padding: 10px; position: fixed; width: 100%; bottom: 0; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>TRANSCAR</h1>
+    <p>Tu agencia de traslados de confianza</p>
+  </header>
+  <nav>
+    <a href="#servicios">Servicios</a>
+    <a href="#nosotros">Sobre Nosotros</a>
+    <a href="#contacto">Contacto</a>
+  </nav>
+  <section id="servicios">
+    <h2>Servicios</h2>
+    <ul>
+      <li>Traslados al aeropuerto</li>
+      <li>Viajes corporativos</li>
+      <li>Traslados turísticos</li>
+      <li>Servicios personalizados</li>
+    </ul>
+  </section>
+  <section id="nosotros">
+    <h2>Sobre Nosotros</h2>
+    <p>En TRANSCAR, ofrecemos servicios de traslados seguros y puntuales, adaptados a tus necesidades. Nuestro equipo profesional garantiza una experiencia de viaje cómoda y confiable.</p>
+  </section>
+  <section id="contacto">
+    <h2>Contacto</h2>
+    <p>Email: contacto@transcar.com</p>
+    <p>Teléfono: +54 11 1234 5678</p>
+  </section>
+  <footer>
+    <p>&copy; 2025 TRANSCAR. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>
